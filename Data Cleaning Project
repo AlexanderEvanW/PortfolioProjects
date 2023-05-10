@@ -1,3 +1,4 @@
+```sql
 /*
 
 Data Cleaning in SQL
@@ -164,4 +165,4 @@ ALTER TABLE nashville_housing
     DROP COLUMN OwnerAddress, 
     DROP COLUMN TaxDistrict, 
     DROP COLUMN PropertyAddress
-
+```
