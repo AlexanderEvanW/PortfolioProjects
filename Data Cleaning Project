@@ -4,13 +4,9 @@ Data Cleaning in SQL
 
 */
 
-````
-```
 SELECT *
 FROM nashville_housing
 LIMIT 1000
-```
-````
 
 -- Standardize Date Format
 
