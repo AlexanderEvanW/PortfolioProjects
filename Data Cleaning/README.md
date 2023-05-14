@@ -14,7 +14,7 @@ SET SaleDate = DATE_FORMAT(STR_TO_DATE(SaleDate, '%d-%b-%y'), '%Y/%m/%d')
 ```
 ### Populate Property Address Data
 
-When we check the `PropertyAddress` data, there is a couple null value.
+When we checked the `PropertyAddress` data, we found a few null values.
 
 ![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/22604e7b-1a7b-4958-b8f5-0cad1b49935e)
 
