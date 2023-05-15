@@ -18,11 +18,11 @@ When we checked the `PropertyAddress` data, we found a few null values.
 
 ![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/22604e7b-1a7b-4958-b8f5-0cad1b49935e)
 
-When we examined the data, we discovered that every `ParcelID` has the same `PropertyAddress`
+When we examined the data, we discovered that every `ParcelID` has the same `PropertyAddress`.
 
 ![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/3f8a5c66-d9dc-4441-8a2b-a343b7855271)
 
-To fill in the null values, we can write a query that essentially says, "if a `ParcelID` already has a `PropertyAddress`, and another `ParcelID` does not have a `PropertyAddress`, then fill the empty `PropertyAddress` with the already-filled `PropertyAddress`".
+To fill in the null values, we can write a query that essentially says, "if a `ParcelID` already has a `PropertyAddress`, and another `ParcelID` does not have a `PropertyAddress`, then fill the empty `PropertyAddress` with the already-filled `PropertyAddress`.
 
 ```sql
 SELECT a.ParcelID, a.PropertyAddress, b.ParcelID, b.PropertyAddress, IF(a.PropertyAddress = '', b.PropertyAddress, a.PropertyAddress)
