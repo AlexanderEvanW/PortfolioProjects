@@ -20,3 +20,20 @@ We will be using the 'Find and Replace' feature to change the data.
 
 ### Simplify the `Income` column by reducing the decimal places
 
+![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/426dc167-df7a-476d-8f85-1cce3c482e4c)
+
+### Created a new column for `Age` using an IF formula to improve visualization
+
+We will categorize the `Age` column into `Age Brackets`.
+- Individuals under the age of 31 as "Adolescent"
+- Individuals aged 31 to 54 will be "Middle Age"
+- Individuals aged older than 54 will be "Old"
+
+![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/61de9570-6c16-469b-8402-287f11ef1234)
+
+## 📊 Dashboard
+
+![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/ec7c316b-a3b3-4b74-a3c9-9832e6984ddf)
+
+
+
