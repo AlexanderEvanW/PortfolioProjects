@@ -3,7 +3,7 @@
 The complete project can be viewed at [Link](https://github.com/AlexanderEvanW/PortfolioProjects/blob/main/Movies%20Gross%20Correlation/Movies%20Gross%20Correlation.ipynb).
 
 ## Objective
-The objective of this project is to determine the factors that influence movie gross by investigating their correlation.
+The objective of this project is to determine the factors that influence movies gross by investigating their correlation.
 
 ## Tools
 Python for data cleaning, data transformation, data visualisation and data analysis.
