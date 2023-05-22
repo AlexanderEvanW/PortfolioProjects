@@ -13,6 +13,9 @@ To gain insights into team performance during the tournament and answer question
 - Excel for data cleaning, data manipulation, data transformation, and data analysis
 - Tableau for data visualization
 
+## Dataset
+The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset?resource=download)
+
 ## Visualizations
 
 Tableau: [Link](https://public.tableau.com/app/profile/alexander.evan5078/viz/WorldCup2022_16838986929580/Story)
