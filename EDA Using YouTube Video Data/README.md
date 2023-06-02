@@ -14,7 +14,7 @@ Within this project, I would like to explore the following:
   - Is there any terms in video title that potentially impact video views?
 
 ## Tools
-Python for Exploratory Data Analysis.
+Python for Exploratory Data Analysis and Collecting Data from YouTube API.
 
 ## Dataset
 I created my own dataset using the Google Youtube Data API version 3.0. First, I created a project on the Google Developers Console and requested an authorization credential (API key). After that, I enabled the YouTube API for my application, allowing me to send API requests to YouTube API services. Then, I visited YouTube and retrieved the channel ID that I wanted to include. Then, I created the functions for getting the channel statistics via the API.
