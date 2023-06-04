@@ -7,7 +7,7 @@ The complete project can be viewed at [Link](https://github.com/AlexanderEvanW/P
 ## Objective
 Within this project, I would like to explore the following:
 - Getting to know Youtube API and how to obtain channel video data
-- Explore video title that potentially impact video views using NLP techniques
+- Explore terms in video title that potentially impact video views using NLP techniques
 - Doing Exploratory Data Analysis to answer question such as:
   - What does the distribution of views look like?
   - Does the number of likes and comments matter for a video to get more views?
