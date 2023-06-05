@@ -1,4 +1,4 @@
-# 📺 YouTube Data Exploratory Data Analysis
+# 📺 YouTube Data EDA
 
 In this project, we will perform Exploratory Data Analysis using YouTube video data from the Manchester United Channel.
 
