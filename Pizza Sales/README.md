@@ -39,6 +39,18 @@ The dataset consists of 4 CSV files
 - Pizzas
 - Pizza Types
 
+Next, I combined the datasets and selected the specific columns that I want to include for analysis
+```sql
+SELECT 	order_details.order_details_id, order_details.order_id, order_details.pizza_id, order_details.quantity, 
+		orders.order_date, orders.order_time, 
+		pizza_types.pizza_name, pizza_types.pizza_category, pizza_types.pizza_ingredients,
+		pizzas.pizza_size, pizzas.pizza_price
+FROM order_details
+FULL JOIN orders ON order_details.order_id = orders.order_id
+FULL JOIN pizzas ON order_details.pizza_id = pizzas.pizza_id
+FULL JOIN pizza_types ON pizzas.pizza_type_id = pizza_types.pizza_type_id
+```
+
 ## Summary
 - Friday is the busiest day.
 - July has the highest number of orders.
