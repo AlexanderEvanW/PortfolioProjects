@@ -28,7 +28,7 @@ Mario Maven (Manager, Plato's Pizza)
 ## Tools
 - PostgreSQL is used to combine datasets and modify column names.
 - Python is used for data preprocessing and exploratory data analysis (EDA).
-- Tableau will be used to create a dashboard (coming soon).
+- Tableau is used to create a dashboard.
 
 ## Dataset
 The dataset is available for download at [Link](https://www.mavenanalytics.io/data-playground)
@@ -70,3 +70,6 @@ FULL JOIN pizza_types ON pizzas.pizza_type_id = pizza_types.pizza_type_id
 - There were no orders placed for The Big Meat Pizza in M and L sizes, The Five Cheese Pizza in S and M sizes, and The Four Cheese Pizza in S size.
 
 ## Dashboard
+[Tableau Link](https://public.tableau.com/app/profile/alexander.evan5078/viz/PizzaSalesDashboard_16874449725380/PizzaSalesDashboard2)
+
+![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/7b87f88f-5f66-4de7-b2cd-00ae9b501e21)
