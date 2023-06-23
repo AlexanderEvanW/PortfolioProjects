@@ -19,7 +19,8 @@ Here are some questions that we'd like to be able to answer:
 - What's our average order value?
 - How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
 - How much money did we make this year? Can we indentify any seasonality in the sales?
-- That's all I can think of for now, but if you have any other ideas I'd love to hear them – you're the expert!
+
+That's all I can think of for now, but if you have any other ideas I'd love to hear them – you're the expert!
 
 Thanks in advance,
 
