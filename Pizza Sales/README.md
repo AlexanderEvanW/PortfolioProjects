@@ -4,7 +4,7 @@ The complete project can be viewed at [Link](https://github.com/AlexanderEvanW/P
 
 This project is based on the Maven Pizza Challenge, and all the datasets are downloadable from their [website](https://www.mavenanalytics.io/blog/maven-pizza-challenge)
 
-## Objective
+## 🔎 Objective
 For this challenge, I will be playing the role of a BI consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. My task is to help the restaurant leverage data to improve its operations. I have just received this email:
 
 Welcome aboard, we're glad you're here to help!
@@ -26,12 +26,12 @@ Thanks in advance,
 
 Mario Maven (Manager, Plato's Pizza)
 
-## Tools
+## 🔨 Tools
 - PostgreSQL is used to combine datasets and modify column names.
 - Python is used for data preprocessing and exploratory data analysis (EDA).
 - Tableau is used to create a dashboard.
 
-## Dataset
+## 🔢 Dataset
 The dataset is available for download at [Link](https://www.mavenanalytics.io/data-playground)
 
 The dataset consists of 4 CSV files
@@ -52,7 +52,7 @@ FULL JOIN pizzas ON order_details.pizza_id = pizzas.pizza_id
 FULL JOIN pizza_types ON pizzas.pizza_type_id = pizza_types.pizza_type_id
 ```
 
-## Insights
+## 🎯 Insights
 Here are the insights we discovered during our analysis:
 - Friday is the busiest day.
 - July has the highest number of orders.
@@ -71,7 +71,7 @@ Here are the insights we discovered during our analysis:
 - Top 5 ingredients that most commonly appear in pizza are garlic, tomatoes, red onions, red peppers, and mozzarella.
 - There were no orders placed for The Big Meat Pizza in M and L sizes, The Five Cheese Pizza in S and M sizes, and The Four Cheese Pizza in S size.
 
-## Dashboard
+## 📊 Dashboard
 After doing the analysis, I created a dashboard for stakeholders to observe and monitor the following key metrics:
 - KPIs: Key Performance Indicators that track the overall performance of the business.
 - Busiest Days and Hours: Identifying peak times to optimize operations and resource allocation.
