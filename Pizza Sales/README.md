@@ -5,7 +5,7 @@ The complete project can be viewed at [Link](https://github.com/AlexanderEvanW/P
 This project is based on the Maven Pizza Challenge, and all the datasets are downloadable from their [website](https://www.mavenanalytics.io/blog/maven-pizza-challenge)
 
 ## Objective
-For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations, and just received the following note:
+For this challenge, I will be playing the role of a BI consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. My task is to help the restaurant leverage data to improve its operations. I have just received this email:
 
 Welcome aboard, we're glad you're here to help!
 
@@ -52,7 +52,8 @@ FULL JOIN pizzas ON order_details.pizza_id = pizzas.pizza_id
 FULL JOIN pizza_types ON pizzas.pizza_type_id = pizza_types.pizza_type_id
 ```
 
-## Summary
+## Insights
+Here are the insights we discovered during our analysis:
 - Friday is the busiest day.
 - July has the highest number of orders.
 - Although the pizza store opens at 9, the orders spike between 12 and 13 due to it being lunchtime. After 13, the number of orders gradually declines, only to spike again between 17 and 18 during dinner hours.
@@ -71,6 +72,12 @@ FULL JOIN pizza_types ON pizzas.pizza_type_id = pizza_types.pizza_type_id
 - There were no orders placed for The Big Meat Pizza in M and L sizes, The Five Cheese Pizza in S and M sizes, and The Four Cheese Pizza in S size.
 
 ## Dashboard
+After doing the analysis, I created a dashboard for stakeholders to observe and monitor the following key metrics:
+- KPIs: Key Performance Indicators that track the overall performance of the business.
+- Busiest Days and Hours: Identifying peak times to optimize operations and resource allocation.
+- Monthly Sales: Analyzing monthly sales trends to identify growth opportunities and challenges.
+- Top Pizza Sales: Highlighting the most popular pizza items to inform marketing strategies and inventory management.
+
 [Tableau Link](https://public.tableau.com/app/profile/alexander.evan5078/viz/PizzaSalesDashboard_16874449725380/PizzaSalesDashboard2)
 
 ![image](https://github.com/AlexanderEvanW/PortfolioProjects/assets/124351667/7b87f88f-5f66-4de7-b2cd-00ae9b501e21)
