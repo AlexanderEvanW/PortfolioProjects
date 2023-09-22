@@ -76,7 +76,7 @@ The purpose of this dashboard is to display important information and assist sta
 
 ## 📌 Recommendation
 
-**Loyalty Cards**
+### Loyalty Cards
 
 Customers without loyalty cards have higher average spending than customers with loyalty cards. Therefore, we need to review, adjust, and monitor the impact of changes made to the loyalty cards.
 
@@ -100,3 +100,13 @@ Depending on the customer feedback and analysis, consider making adjustments to 
 Monitor and Measure:
 
 Continuously monitor the impact of changes made to your loyalty program. Track spending trends, customer feedback, and enrollment rates to assess the effectiveness of your strategies.
+
+### Increasing coffee sales through upselling and cross-selling
+
+These are effective techniques used in various industries to boost revenue by encouraging customers to purchase additional products or higher-priced items. Upselling involves persuading customers to buy a more expensive or premium version of the product they originally intended to purchase. Cross-selling involves recommending related or complementary products alongside the main purchase. 
+
+Here are some effective strategies to help boost coffee sales:
+- **Bundle Deals:** Offer bundled packages that include different varieties of coffee
+- **Sizing options:** Suggest larger quantities of coffee at a slightly discounted price, encouraging customers to buy more to save in the long run
+- **Sell complementary products:** When customers are buying coffee, offer flavored syrups, creamers, or milk that can enhance their coffee experience
+- **Personalized Marketing:** Utilize customer data and purchase history to send personalized product recommendations via email, website, or social media. For example, if a customer has previously purchased dark roast Arabica coffee, recommend other size options for dark roast Arabica coffee or complementary products that pair well with it
